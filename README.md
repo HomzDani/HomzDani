@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="left">¿Que tal? Soy Daniel. </h1>
 
-<!--
-**HomzDani/HomzDani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Sobre mi: </h2>
+  <div>
+    <p>Soy una persona que le gusta programar. Lo hago en mis ratos libres, me gustaria en un futuro poder ser un buen desarrollador y crear grandes cosas...</p>
+  </div>
 
-Here are some ideas to get you started:
+<h3 align="left"> Las tegnologias que domino: </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" alt="JavaScript-logo">
+</div>
