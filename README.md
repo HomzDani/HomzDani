@@ -16,3 +16,9 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" alt="JavaScript-logo">
 </div>
+
+<h4>Otros: </h4>
+
+<div>
+  <img src="https://i.pinimg.com/1200x/97/cb/12/97cb12c0c2a5bb62c2d6fdcb9dfd0428.jpg" height="40" alt="githubicon">
+</div>
